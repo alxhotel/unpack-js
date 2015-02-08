@@ -1,3 +1,4 @@
+<?php
 class UnpackJs {
 	
 	public $str;
